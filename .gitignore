@@ -1,0 +1,17 @@
+# Raw data is downloaded by the notebook on first run
+data/
+
+# Local SQLite databases
+database/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
